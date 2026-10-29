@@ -1,4 +1,4 @@
-# Soccer-Players-Offensive-Stat-Dictionary-Project-CSP2
+# Soccer Players Dictionary
 
 ### One-Sentence Description:
 A dictionary including legends and rising stars in the soccer world with a menu to view the whole list, calculate stat ratings, find averages across positions, find the most outstanding players in a category, and more!
